@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15970" started-at="2022-11-28T07:37:48Z" finished-at="2022-11-28T07:38:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15970" started-at="2022-11-28T07:37:48Z" finished-at="2022-11-28T07:38:04Z">
+      <class name="Arrays.facebook">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Arrays.facebook@7a92922]" name="Setup" is-config="true" duration-ms="3574" started-at="2022-11-28T13:07:48Z" finished-at="2022-11-28T13:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Facebook_LogIn()[pri:0, instance:Arrays.facebook@7a92922]" name="Facebook_LogIn" duration-ms="12385" started-at="2022-11-28T13:07:51Z" finished-at="2022-11-28T13:08:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook_LogIn -->
+      </class> <!-- Arrays.facebook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

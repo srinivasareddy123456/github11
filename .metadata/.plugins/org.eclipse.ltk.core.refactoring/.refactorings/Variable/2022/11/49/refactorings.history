@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;driverfiles&apos; to &apos;OrangeHRMApplication2&apos;&#x0D;&#x0A;- Original project: &apos;Variable&apos;&#x0D;&#x0A;- Destination element: &apos;OrangeHRMApplication2&apos;&#x0D;&#x0A;- Original element: &apos;driverfiles&apos;" description="Copy folder" destination="=OrangeHRMApplication2" element1="driverfiles" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1669790555787" units="0" version="1.0"/>
+</session>
